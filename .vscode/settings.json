@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        ".cflintrc": "json",
+        "algorithm": "c",
+        "chrono": "cpp",
+        "ostream": "cpp"
+    }
+}
